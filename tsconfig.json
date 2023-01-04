@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "outDir": "build",
+      "rootDir": "src",
+      "module": "commonjs",
+      "target": "ES2022",
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "types": [
+        "node"
+      ],
+  }
+}
